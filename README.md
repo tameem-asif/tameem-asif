@@ -1,4 +1,19 @@
 ### Hi there 👋
+My name is Tameem and I am student studying Computer Engineering at Columbia University 🦁. 
+
+I am actively involved in:
+- 🏎 CU Formula Racing
+- 🦾 Columbia Uniersity Robotics Club 
+- 🏛 Engineering Student Council
+
+Those are all things I love talking about (and often don't stop talking about)!
+
+🔭 I’m currently working on a website interface for ordering parts for CU Formula racing. You can check out the source code [here!](https://github.com/tameem-asif/fsae-ordering)  
+
+---
+### Contact Me!
+📧 Email (preferred): tameem.asif02@gmail.com  
+🖇 LinkedIn: [tameem-asif](https://www.linkedin.com/in/tameem-asif/)
 
 <!--
 **tameem-asif/tameem-asif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
