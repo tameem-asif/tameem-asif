@@ -8,7 +8,7 @@ I am actively involved in:
 
 Those are all things I love talking about (and often don't stop talking about)!
 
-🔭 I’m currently working on a website interface for ordering parts for CU Formula racing. You can check out the source code [here!](https://github.com/tameem-asif/fsae-ordering)  
+🔭 I’m currently working on a custom static site generator that I plan to use for my personal website. 
 
 ---
 ### Contact Me!
